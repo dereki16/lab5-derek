@@ -23,10 +23,16 @@ h1 {
 }
 
 footer {
-    color: gray;
     font-size: .8em;
 }
 
-input, select, button {
+input, select {
     color: black;
+}
+
+button {
+    text-align: center;
+    padding: right;
+    color: black;
+    
 }
